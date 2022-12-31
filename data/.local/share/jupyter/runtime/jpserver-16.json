@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/admin/",
+  "hostname": "127.0.0.1",
+  "password": false,
+  "pid": 16,
+  "port": 37041,
+  "root_dir": "/home/admin",
+  "secure": false,
+  "sock": "",
+  "token": "ab6648c1b5400375dd42bf7a44663294a01ebcd44da5fb2a",
+  "url": "http://127.0.0.1:37041/user/admin/",
+  "version": "2.0.6"
+}
